@@ -1,3 +1,5 @@
-#Field Lab
+# Fieldlab Kanban
 
-Please visit [the project board](https://github.com/VNG-Realisatie/field-lab/projects/1).
+Providing a Kanban board for the [Common Ground Fieldlab](https://commonground.pleio.nl/cms/view/54475749/fieldlab-overzicht).
+
+Please visit the [Kanban board](https://github.com/VNG-Realisatie/field-lab/projects/1).
